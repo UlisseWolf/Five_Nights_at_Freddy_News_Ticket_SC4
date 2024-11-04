@@ -1,2 +1,31 @@
 # Five Nights at Freddy News Ticket for SimCity 4
 Five Nights at Freddy's News Ticket is the LUA code that allows you to generate Five Nights at Freddy's-themed News Tickets and Alert Advisors on SimCity 4 
+
+## Features
+
+The LUA code allows original FNAF-themed News Tickets to be activated within the game. The code is structured so that to activate the News Tickets requires the construction of a specific Landmark building (Freddy Fazbear's Pizza) available here
+
+https://community.simtropolis.com/files/file/35635-ulisse-wolf-five-nights-at-freddys/
+
+In addition, the LUA code allows the Consullente Alert function to be activated when the building is constructed by generating an alert from the security advisor in the game. Because of this alert, two versions of the same code were made
+  
+   * Allert News - No Invasive -> This version contains the non-invasive LUA code in which the advisor alert is generated only once and is no longer repeated when loading the city
+   * Allert News - Original -> This version contains the original LUA code in which the security advisor alert is generated even when the city containing the landmark is loaded
+   
+## Installation
+
+Within the two folders are contained two files. For the sake of simplification, the structure of the two files and their meaning are shown below
+
+   * Name File.lua -> The file that contains the LUA code
+   * Name File.lua.TGI -> The file that contains the TGI of the LUA code.
+   
+In order to generate a .dat file that the format needed for the code to be read by the game you have to use a tool such as Reader or Ilives Reader.
+
+Once you open the program you have to create a blank file and from there prmete the right mouse button to open a dropdown and silezionare Import File. 
+
+Once this is done select the .lua file and press open.
+
+After you have done this procedure you have to press yes at the information window where there is this step “No Entry Selected. Append to End? “ and then an Unknown file appears with the exact TGI and LUA code.
+
+Save the new file and reopen it to get the LUA file instead of Unknown
+
