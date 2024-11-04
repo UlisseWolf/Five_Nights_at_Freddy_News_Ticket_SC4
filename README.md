@@ -25,7 +25,7 @@ Once you open the program you have to create a blank file and from there prmete 
 
 Once this is done select the .lua file and press open.
 
-After you have done this procedure you have to press yes at the information window where there is this step “No Entry Selected. Append to End? “ and then an Unknown file appears with the exact TGI and LUA code.
+After you have done this procedure you have to press yes at the information window where there is this step *No Entry Selected. Append to End?* and then an Unknown file appears with the exact TGI and LUA code.
 
 Save the new file and reopen it to get the LUA file instead of Unknown
 
