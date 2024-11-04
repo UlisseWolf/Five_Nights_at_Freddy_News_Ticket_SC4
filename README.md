@@ -21,7 +21,7 @@ Within the two folders are contained two files. For the sake of simplification, 
    
 In order to generate a .dat file that the format needed for the code to be read by the game you have to use a tool such as Reader or Ilives Reader.
 
-Once you open the program you have to create a blank file and from there prmete the right mouse button to open a dropdown and silezionare Import File. 
+Once the program is open you should create an empty file and from there prmete the right mouse button to open a dropdown and select Import File.
 
 Once this is done select the .lua file and press open.
 
