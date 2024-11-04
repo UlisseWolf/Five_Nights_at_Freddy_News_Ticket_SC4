@@ -9,8 +9,8 @@ https://community.simtropolis.com/files/file/35635-ulisse-wolf-five-nights-at-fr
 
 In addition, the LUA code enables the Consulsive Alarm function when the building is constructed, generating an alarm from the security advisor in the game. Because of this alarm, two versions of the same code were made
   
-   * Allert News - No Invasive -> This version contains the non-invasive LUA code in which the advisor alert is generated only once and is no longer repeated when loading the city
-   * Allert News - Original -> This version contains the original LUA code in which the security advisor alert is generated even when the city containing the landmark is loaded
+   * Allert News - No Invasive -> This version contains the non-invasive allert LUA code in which the advisor alert is generated only once and is no longer repeated when loading the city
+   * Allert News - Original -> This version contains the original LUA code in which the security advisor alert is generated even when the city containing the landmark is loaded again
    
 ## Installation
 
