@@ -7,7 +7,7 @@ The LUA code allows original FNAF-themed News Tickets to be activated within the
 
 https://community.simtropolis.com/files/file/35635-ulisse-wolf-five-nights-at-freddys/
 
-In addition, the LUA code allows the Consullente Alert function to be activated when the building is constructed by generating an alert from the security advisor in the game. Because of this alert, two versions of the same code were made
+In addition, the LUA code enables the Consulsive Alarm function when the building is constructed, generating an alarm from the security advisor in the game. Because of this alarm, two versions of the same code were made
   
    * Allert News - No Invasive -> This version contains the non-invasive LUA code in which the advisor alert is generated only once and is no longer repeated when loading the city
    * Allert News - Original -> This version contains the original LUA code in which the security advisor alert is generated even when the city containing the landmark is loaded
