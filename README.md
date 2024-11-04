@@ -16,6 +16,10 @@ In addition, the LUA code enables the Consulsive Alarm function when the buildin
 
 - Copy only one of the two folder to the following folder
   (place it directly in `<Documents\SimCity 4\Plugins\Ulisse Wolf\Five Nights At Freddy's\Allert News`).
+  
+ Or you can download the mod and run the java installer from [Simtropolis](https://community.simtropolis.com/files/file/35635-ulisse-wolf-five-nights-at-freddys/) or [SC4Evermore](https://www.sc4evermore.com/index.php/downloads/download/12-commercial/160-ulisse-wolf-five-nights-at-freddys)
+
+Alternatively, the mod can be installed with Sc4pac: [ulisse-wolf:five-nights-at-freddys](https://memo33.github.io/sc4pac/channel/?pkg=ulisse-wolf:five-nights-at-freddys)
    
 ## Compiling .dat File
 
