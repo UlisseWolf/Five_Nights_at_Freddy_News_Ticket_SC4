@@ -11,8 +11,13 @@ In addition, the LUA code enables the Consulsive Alarm function when the buildin
   
    * Allert News - No Invasive -> This version contains the non-invasive allert LUA code in which the advisor alert is generated only once and is no longer repeated when loading the city
    * Allert News - Original -> This version contains the original LUA code in which the security advisor alert is generated even when the city containing the landmark is loaded again
-   
+
 ## Installation
+
+- Copy only one of the two folder to the following folder
+  (place it directly in `<Documents\SimCity 4\Plugins\Ulisse Wolf\Five Nights At Freddy's\Allert News`).
+   
+## Compiling .dat File
 
 Within the two folders are contained two files. For the sake of simplification, the structure of the two files and their meaning are shown below
 
